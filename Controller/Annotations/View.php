@@ -14,7 +14,7 @@ namespace FOS\RestBundle\Controller\Annotations;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
 /**
- * View annotation class.
+ * View annotation class...
  * @Annotation
  * @Target({"METHOD","CLASS"})
  */
